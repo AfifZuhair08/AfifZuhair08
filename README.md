@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AfifZuhair08
-- 👀 I’m interested in computer science and software engineering. Also, currently developing web and mobile applications.
-- 🌱 I’m currently learning web development using HTML, CSS, Bootstrap, PHP, Laravel, Node.JS, JavaScript, React.JS, MySQL, PostgreSQL, RESTful API. Also working on mobile development using Flutter and integration with backend server using API integration.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer science and software engineering. Also, currently developing web applications on my free time.
+- 🌱 I’m currently learning web development using HTML, CSS, Bootstrap, PHP, Laravel, Node.JS, JavaScript, React.JS, MySQL, MonogDB, PostgreSQL, RESTful API integration. 
+- In future, I also want to dive into mobile applications using React Native.
 - 📫 How to reach me? Just email at afifzuhair09@gmail.com
 
 <!---
